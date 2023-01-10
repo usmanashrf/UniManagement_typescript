@@ -36,3 +36,5 @@ class university{
     return this.students.length;
    }
 }
+
+export default university;
