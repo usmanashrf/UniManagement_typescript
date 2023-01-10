@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/usmanashrf/UniManagement_typescript/issues"
   },
-  "homepage": "https://github.com/usmanashrf/UniManagement_typescript#readme"
+  "homepage": "https://github.com/usmanashrf/UniManagement_typescript#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.18"
+  }
 }
