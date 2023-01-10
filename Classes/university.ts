@@ -1,6 +1,6 @@
-import department from "./department";
-import student from "./student";
-import faculty from "./faculty";
+import department from "./department.js";
+import student from "./student.js";
+import faculty from "./faculty.js";
 
 class university{
     name:string;
